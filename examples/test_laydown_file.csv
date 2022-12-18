@@ -1,0 +1,6 @@
+﻿Latitude,Longitude,Name,Description,Target_Class,Explosion_Yield,Height_Of_Burst,Unit,Launch_Vehicle,Warhead
+32.760716,-97.439659,Carswell 1,Runway Target,Strategic,100,0,n/a,n/a,n/a
+32.781539,-97.437244,Carswell 2,Runway Target,Strategic,100,0,n/a,n/a,n/a
+32.771542,-97.44977,Carswell 3,Lockheed Martin,Military Industrial,100,840,n/a,n/a,n/a
+32.771542,-97.42929,Carswell 4,Base Structures,Strategic,100,840,n/a,n/a,n/a
+32.795855,-97.145471,Bell Helicopter,Manufacturing Plant,Military Industrial,100,840,n/a,n/a,n/a
